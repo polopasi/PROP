@@ -1,0 +1,25 @@
+# Descripció i continguts
+
+Aquest directori conte el driver principal i uns taulers d'exemple que es carreguen automàticament.
+
+- boards: Carpeta on es troben els taulers d'exemple.
+          Estan ordenats per mida i tots tenen solució.
+
+- libs: Conté les llibreries externes del programa.
+
+- tests: Conté els documents dels jocs de proves.
+
+- Main.jar: Executable principal del programa.
+
+- run.sh: Facilita l'execució del programa.
+
+- test.sh: Executable per facilitar el procediment dels tests.
+           Elimina automaticament la base de dades i desactiva 
+           la importacio de nivells automatica.
+
+
+# Com executar
+Correr l'arxiu "run.sh"
+
+## Directament
+java -cp Main.jar:../FONTS/GradlePOC-1.0-SNAPSHOT/lib/gson-2.8.9.jar Main

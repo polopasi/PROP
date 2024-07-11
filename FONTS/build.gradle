@@ -1,0 +1,41 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = ''
+version = '1.0'
+
+ext {
+    javaMainClass = 'Main'
+}
+
+application {
+    mainClassName = javaMainClass
+}
+
+run {
+    standardInput = System.in
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': javaMainClass
+    }
+}
+
+javadoc {
+    destinationDir = file("${buildDir}/docs/javadoc")
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // this is just an example of importing an external library, you do not need to use it in your project
+    compile 'com.google.code.gson:gson:2.8.2'
+    implementation 'com.google.code.gson:gson:2.8.9'
+    testImplementation('junit:junit:4.13.1')
+}
+}

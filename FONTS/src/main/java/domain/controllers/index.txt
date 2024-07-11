@@ -1,0 +1,3 @@
+# Descripció i continguts
+
+Conté les classes controlador, que implementen les funcionalitats del programa.

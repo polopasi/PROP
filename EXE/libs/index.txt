@@ -1,0 +1,4 @@
+# Descripció i continguts
+
+Aquest directori conte les llibreries externes necessàries pel funcionament correcte del programa.
+- gson-2.8.9.jar: Llibreria Java que permet serialitzar i deserilitzar el format ".json".

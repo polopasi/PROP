@@ -1,0 +1,6 @@
+# Descripció i continguts
+
+Directori amb el codi font del projecte.
+
+- main: Conté les classes principals del programa.
+- test: Conté els tests unitaris executables amb ./gradlew test

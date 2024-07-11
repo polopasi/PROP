@@ -1,0 +1,16 @@
+# Descripció i continguts
+
+Conté les classes principals del programa.
+
+- controllers: Directori amb els controladors.
+- operations: Directori amb les operacions que es poden fer en un KenKen.
+- Board.java: Classe encarregada d'emmagatzemar un KenKen.
+- BoardSolver.java: Classe encarregada de resoldre un KenKen.
+- BoardGenerator.java: Classe encarregada de generar un KenKen seguint certes restriccions.
+- Cell.java: Classe que representa una casella del KenKen.
+- Completion.java: Classe que representa una entrada al ranking d'un nivell.
+- Database.java: Classe que conté les dades del programa.
+- Game.java: Classe que representa una partida del KenKen.
+- Level.java: Classe que representa un nivell de KenKen.
+- Partition.java: Classe que representa una partició de KenKen.
+- User.java: Classe que representa un jugador.

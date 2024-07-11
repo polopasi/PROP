@@ -1,0 +1,5 @@
+# Descripció i continguts
+
+Conté classes d'ajuda utilitzats per altres classes que no tenen relació amb funcionalitats directes del programa.
+
+- InOut.java: Classe proporcionada per PROP. Encarregada de l'Input i Output des del terminal.

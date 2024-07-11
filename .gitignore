@@ -1,0 +1,8 @@
+.gradle
+.idea
+build
+.direnv
+flake.lock
+bin
+out.txt
+Board.txt

@@ -1,0 +1,18 @@
+ # Descripció i continguts
+
+Conté el codi de les vistes de l'aplicació.
+
+- BoardView.java: Vista encarregada de mostrar el tauler, tant mode editor com de joc.
+- ConsultLevelMenu.java: Vista encarregada de mostrar el llistat de nivells emmagatzemats.
+- ConsultMenu.java: Vista encarregada de mostrar el menú de consultes.
+- EditLevelMenu.java: Vista encarregada de mostrar l'editor de nivells.
+- ImportLevelMenu.java: Vista encarregada de mostrar el selector de fitxers per importar un nivell.
+- LevelInfoView.java: Vista encarregada de mostrar el ranking d'un nivell.
+- Login.java: Vista encarregada d'enregistrar l'usuari.
+- MainFrame.java: Finestra principal on s'afegeixen la resta de vistes.
+- MainMenu.java: Vista encarregada de mostrar el menú principal de l'aplicació.
+- PlayLevelMenu.java: Vista encarregada de mostrar el llistat de nivells que es poden jugar i permet seleccionar un dels nivells llistats o un aleatori.
+- UsersView.java: Vista encarregada de mostrar el llistat d'usuaris enregistrats.
+- ViewController.java: Controlador encarregat de gestionar les vistes.
+
+- .form: Arxius necessaris per l'editor d'interfaç Netbeans

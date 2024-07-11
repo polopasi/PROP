@@ -1,0 +1,3 @@
+# Descripció i continguts
+
+Conté els tests unitaris de totes les classes, amb la mateixa estructura que src/main.

@@ -1,0 +1,9 @@
+# Descripció i continguts
+
+Directori amb les operacions disponibles al nostre KenKen.
+
+Cada operació és una classe que implementa la interfaç "Operation".
+
+La operació NoOp representa l'operació d'una sola casella.
+
+Les operacions de Divisió, Modul i Resta només poden contenir particions amb dues caselles.

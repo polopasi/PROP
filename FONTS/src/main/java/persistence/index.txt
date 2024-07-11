@@ -1,0 +1,5 @@
+# Descripció i continguts
+
+Conté el controlador de la classe de persistència.
+
+- PersistenceController.java: Controlador encarregat de gestionar la capa de persistència.

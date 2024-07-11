@@ -1,0 +1,9 @@
+# Descripció i continguts
+
+Directori amb totes les classes principals del programa.
+
+- domain: Conté el codi de la capa de domini.
+- helpers: Conté classes d'ajuda utilitzades per altres classes que no tenen relació amb funcionalitats directes del programa.
+- persistence: Conté el codi de la capa de persistència.
+- presentation: Conté el codi de la capa de presentació.
+- Main.java: Executable principal del programa, invoca la interfaç principal.

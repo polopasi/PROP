@@ -1,0 +1,15 @@
+# Descripcio i continguts
+
+Aquest directori conte els documents dels jocs de prova.
+
+- Usuaris: Jocs de prova dels Usuaris
+- ImportarNivells: 
+
+Dins de cada subdirectori dels jocs de prova trobem:
+- joc.md: Descripcio del joc de prova.
+- fitxers: Carpeta amb els fitxers necessaris.
+
+# Com executar jocs de prova
+
+Eliminar l'arxiu "database.json" abans de començar cap joc de prova.
+Seguir els passos descrits al document corresponent.

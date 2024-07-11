@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="FONTS/src/main/java"/>
+	<classpathentry kind="src" path="FONTS/src/test/java"/>
+	<classpathentry kind="lib" path="EXE/Main.jar"/>
+	<classpathentry kind="lib" path="FONTS/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="FONTS/GradlePOC-1.0-SNAPSHOT/lib/GradlePOC-1.0-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Propietario/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Propietario/.m2/repository/com/google/code/gson/gson/2.9.0">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

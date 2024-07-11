@@ -1,0 +1,21 @@
+# Descripció i continguts
+Directori amb el codi de tot el projecte en format Gradle.
+
+- build.sh: Executable per compilar el programa.
+- run.sh: Executable per iniciar el programa.
+- testJunit.sh: Executable per iniciar els tests unitaris.
+- src: Directori on es troba el codi font.
+- gradlew / gradlew.bat: Executable Gradle del projecte.
+- build.gradle / settings.gradle: Arxius de configuració de Gradle.
+- GradlePOC-1.0-SNAPSHOT: Llibreries de Gradle.
+
+# Com executar
+## Programa
+./run.sh
+
+## Compilacio programa i copiat a directori EXE
+./build.sh
+
+## Tests Unitaris
+./testJunit.sh
+
