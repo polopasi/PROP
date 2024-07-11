@@ -1,11 +1,13 @@
-# PROP Grup 41.1
+Our project of Projectes de Programació (PROP) of UPC Fib.
 
-- Ezequiel Martinez Hernandez, Alexander
-- Garcia Vernet, Pol
-- Garriga Roses, Liam
-- Torres Martinez, Mikel
-  
-- alexander.ezequiel.martinez@estudiantat.upc.edu
-- pol.garcia.vernet@estudiantat.upc.edu
-- liam.garriga@estudiantat.upc.edu
-- mikel.torres@estudiantat.upc.edu
+The enunciate of the project is in DOC.
+
+Project made by:
+
+- Alexander Ezequiel 
+
+- Pol Garcia
+
+- Liam Garriga
+
+- Mikel Torres
